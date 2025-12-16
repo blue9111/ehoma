@@ -1,0 +1,5 @@
+{
+  "name": "Audio to Professional PPT Converter",
+  "description": "An interactive tool to transcribe audio, edit text, structure content, and generate professional PowerPoint presentations using Gemini 2.5.",
+  "requestFramePermissions": []
+}
